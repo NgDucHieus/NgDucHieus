@@ -16,7 +16,7 @@ I'm a third-year **Computer Science & Engineering** student at **Vietnam Japan U
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [**[Dán link LinkedIn của bạn vào đây!](https://www.linkedin.com/in/hi%E1%BA%BFu-ng-a98469257/)**]
+* **LinkedIn:** [**https://www.linkedin.com/in/hi%E1%BA%BFu-ng-a98469257/**]
 * **Email:** [hieu57075@gmail.com](mailto:hieu57075@gmail.com)
 
 ---
